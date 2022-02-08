@@ -1,4 +1,4 @@
-# Railway-Gotty
+# Railway-Gott
 
 A remote terminal for Railway.app using Gotty
 ## ✨ Features
